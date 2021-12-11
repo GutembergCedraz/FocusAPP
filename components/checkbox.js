@@ -16,8 +16,8 @@ export default function Checkbox({checked, setChecked}) {
 
 const styles = StyleSheet.create({
     checkbox: {
-        width: 16,
-        height: 9,
+        width: 32,
+        height: 16,
         borderWidth: 1,
         borderRadius: 5
     }
